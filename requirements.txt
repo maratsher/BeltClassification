@@ -1,0 +1,9 @@
+clearml==1.10.0
+fiftyone==0.17.2
+torch==1.9.0
+pillow==8.2.0
+torchvision==0.10.0
+numpy==1.21.0
+scikit-learn==0.24.2
+matplotlib==3.4.2
+psutil==5.8.0
